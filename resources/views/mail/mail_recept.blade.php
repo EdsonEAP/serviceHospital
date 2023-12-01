@@ -49,7 +49,7 @@
                                         CITA REGISTRADA
                                     </h1>
                                     <p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';box-sizing:border-box;color:black;font-size:16px;line-height:1.5em;margin-top:0;text-align:left">
-                                        Hola Cinthya el paciente:  <strong>{{$mail["paciente_nombre"]}}</strong>,
+                                        Hola Andres el paciente:  <strong>{{$mail["paciente_nombre"]}}</strong>,
                                         <br/>
                                         <strong>ha registrado su cita correctamente en el C.M.I `CÉSAR LÓPEZ SILVA`</strong>
                                         <br/>
